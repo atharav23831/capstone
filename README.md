@@ -1,7 +1,15 @@
-# Best Cars Dealership
+# Repository Name: capstone
 
-Full-stack dealership app built with Django, React, Node/Express (MongoDB) and a sentiment-analysis microservice.
-Users can browse dealers, filter by state, read reviews and post new reviews.
+## Project Name: Best Cars Dealership
 
-## Tech stack
+Full-stack car dealership application built with Django, React, Node.js/Express (MongoDB) and a sentiment-analysis microservice.
+
+### Features
+- Browse all dealers and filter them by state
+- View dealer details and customer reviews
+- User registration, login and logout
+- Post reviews, with sentiment analysis of the review text
+- Admin site for managing car makes and models
+
+### Tech Stack
 Django | React | Node.js/Express | MongoDB | Docker | GitHub Actions | IBM Cloud Code Engine
